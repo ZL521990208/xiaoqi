@@ -6,97 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="12b94f51-1bb3-4b73-9215-f307e609cf61" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Java_EE_6_Java_EE_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/javax.annotation.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/javax.ejb.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/javax.jms.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/javax.persistence.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/javax.resource.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/javax.servlet.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/javax.servlet.jsp.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/javax.servlet.jsp.jstl.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/javax.transaction.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/error.2019-11-09-15.log.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/error.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/error.log1925764355086000.tmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/main.2019-11-09-15.log.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/main.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/main.log1925764348285900.tmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zl/blog/controller/UserController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zl/blog/dao/UserDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zl/blog/dao/impl/UserDaoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zl/blog/domain/UserDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zl/blog/entity/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zl/blog/factory/DaoFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zl/blog/factory/ServiceFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zl/blog/filter/CharacterFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zl/blog/filter/CorsFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zl/blog/service/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zl/blog/service/impl/UserServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zl/blog/util/DataUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zl/blog/util/DbUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zl/blog/util/JSoupSpider.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zl/blog/util/Message.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zl/blog/util/ResponseObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/db-config.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/logback.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/com/zl/blog/dao/UserDaoTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/com/zl/blog/service/UserServiceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/blog.war" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/blog/META-INF/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/blog/WEB-INF/classes/com/zl/blog/controller/UserController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/blog/WEB-INF/classes/com/zl/blog/dao/UserDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/blog/WEB-INF/classes/com/zl/blog/dao/impl/UserDaoImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/blog/WEB-INF/classes/com/zl/blog/domain/UserDto.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/blog/WEB-INF/classes/com/zl/blog/entity/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/blog/WEB-INF/classes/com/zl/blog/factory/DaoFactory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/blog/WEB-INF/classes/com/zl/blog/factory/ServiceFactory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/blog/WEB-INF/classes/com/zl/blog/filter/CharacterFilter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/blog/WEB-INF/classes/com/zl/blog/filter/CorsFilter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/blog/WEB-INF/classes/com/zl/blog/service/UserService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/blog/WEB-INF/classes/com/zl/blog/service/impl/UserServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/blog/WEB-INF/classes/com/zl/blog/util/DataUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/blog/WEB-INF/classes/com/zl/blog/util/DbUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/blog/WEB-INF/classes/com/zl/blog/util/JSoupSpider.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/blog/WEB-INF/classes/com/zl/blog/util/ResponseObject.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/blog/WEB-INF/classes/db-config.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/blog/WEB-INF/classes/logback.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/blog/WEB-INF/lib/commons-codec-1.12.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/blog/WEB-INF/lib/gson-2.8.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/blog/WEB-INF/lib/jsoup-1.12.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/blog/WEB-INF/lib/logback-classic-1.1.6.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/blog/WEB-INF/lib/logback-core-1.1.6.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/blog/WEB-INF/lib/mysql-connector-java-5.1.48.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/blog/WEB-INF/lib/slf4j-api-1.7.22.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/blog/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/zl/blog/controller/UserController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/zl/blog/dao/UserDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/zl/blog/dao/impl/UserDaoImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/zl/blog/domain/UserDto.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/zl/blog/entity/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/zl/blog/factory/DaoFactory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/zl/blog/factory/ServiceFactory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/zl/blog/filter/CharacterFilter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/zl/blog/filter/CorsFilter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/zl/blog/service/UserService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/zl/blog/service/impl/UserServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/zl/blog/util/DataUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/zl/blog/util/DbUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/zl/blog/util/JSoupSpider.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/zl/blog/util/ResponseObject.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/db-config.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/logback.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/zl/blog/dao/UserDaoTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/zl/blog/service/UserServiceTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xiqoqi.iml" afterDir="false" />
-    </list>
+    <list default="true" id="12b94f51-1bb3-4b73-9215-f307e609cf61" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -432,7 +342,7 @@
       <option name="presentableId" value="Default" />
       <updated>1573280545715</updated>
       <workItem from="1573280550163" duration="3233000" />
-      <workItem from="1573283852840" duration="7567000" />
+      <workItem from="1573283852840" duration="7839000" />
     </task>
     <servers />
   </component>
